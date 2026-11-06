@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="hi" class="dark scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5000+ Biggest Viral Desi Video Bundle - Only ₹100 | DesiViralBundle</title>
+  <meta name="description" content="5000+ Biggest Viral Desi Video Bundle. Non-stop hasi, mazedaar pranks aur viral desi entertainment clips ka sabse bada pack — dekho aur pure maze lo! Lifetime Google Drive Access at ₹100.">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+            display: ['Outfit', 'system-ui', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    h1, h2, h3, h4, .font-display { font-family: 'Outfit', sans-serif; }
+    @keyframes pulseSubtle {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.02); }
+    }
+    .pulse-btn { animation: pulseSubtle 2.2s infinite ease-in-out; }
+  </style>
+</head>
+<body class="bg-[#0b0f17] text-slate-100 selection:bg-amber-400 selection:text-black min-h-screen pb-20">
+
+  <!-- ========================================== -->
+  <!-- ⚙️ SELLER SETTINGS -->
+  <!-- ========================================== -->
+  <script>
+    const MY_WHATSAPP = "917742325041";
+    const MY_UPI_ID = "paytmqr2810050501011dateishbh6t@paytm";
+    const MY_PRICE = 100;
+    const ORIGINAL_PRICE = 699;
+    const PRODUCT_NAME = "5000+ Biggest Viral Desi Video Bundle";
+  </script>
+
+  <!-- Top Urgency Countdown Banner -->
+  <div class="bg-gradient-to-r from-red-600 via-amber-600 to-red-600 text-white text-xs sm:text-sm font-bold py-2 px-3 text-center sticky top-0 z-50 shadow-md flex items-center justify-center gap-2">
+    <span>⚡ 85% OFF Flash Sale Ends In:</span>
+    <span id="countdownTimer" class="bg-black/30 backdrop-blur-sm px-2 py-0.5 rounded font-mono font-bold tracking-wider text-yellow-300">
+      02:44:18
+    </span>
+    <span class="hidden sm:inline text-white/90">· Unlimited Non-Stop Entertainment & Instant Drive Link</span>
+  </div>
+
+  <!-- Header -->
+  <header class="backdrop-blur-md bg-[#0b0f17]/90 border-b border-slate-800 px-4 sm:px-6 py-3.5 sticky top-[33px] sm:top-[36px] z-40">
+    <div class="max-w-5xl mx-auto flex items-center justify-between gap-6 sm:gap-8">
+      <a href="#" class="flex items-center gap-2 font-display font-extrabold text-base sm:text-lg text-white whitespace-nowrap shrink-0">
+        <div class="w-8 h-8 rounded-lg bg-amber-400 text-slate-950 font-black flex items-center justify-center text-sm shadow">🚀</div>
+        <span>Desi<span class="text-amber-400">Viral</span>Bundle</span>
+      </a>
+
+      <nav class="hidden md:flex items-center gap-6 text-xs sm:text-sm font-semibold text-slate-300">
+        <a href="#breakdown" class="hover:text-amber-400 transition-colors whitespace-nowrap shrink-0">Categories</a>
+        <a href="#bonuses" class="hover:text-amber-400 transition-colors whitespace-nowrap shrink-0">Bonuses</a>
+        <a href="#reviews" class="hover:text-amber-400 transition-colors whitespace-nowrap shrink-0">Reviews</a>
+        <a href="#faqs" class="hover:text-amber-400 transition-colors whitespace-nowrap shrink-0">FAQs</a>
+      </nav>
+
+      <div class="flex items-center gap-3 shrink-0">
+        <button onclick="openCheckout()" class="px-4 py-2 bg-gradient-to-r from-amber-400 to-yellow-400 hover:from-amber-300 hover:to-yellow-300 text-slate-950 font-black text-xs rounded-xl shadow cursor-pointer active:scale-95 transition whitespace-nowrap">
+          Get Access @ ₹100
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <main class="max-w-3xl mx-auto px-4 pt-8 pb-10 text-center">
+    <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-400/15 text-amber-300 font-extrabold text-xs mb-4 border border-amber-400/30">
+      🔥 FULL TIMEPASS & ENTERTAINMENT · ONLY ₹100 TODAY
+    </div>
+
+    <h1 class="text-3xl sm:text-5xl font-black font-display text-white mb-3 tracking-tight leading-tight">
+      5000+ Biggest Viral Desi Video Bundle 🚀
+    </h1>
+
+    <p class="text-sm sm:text-base text-slate-300 mb-8 max-w-xl mx-auto leading-relaxed">
+      Non-stop hasi, mazedaar pranks, desi comedy aur viral entertainment clips ka sabse bada pack — dekho aur pure maze lo!
+    </p>
+
+    <!-- Pricing Card -->
+    <div class="bg-[#111827] border border-slate-800 rounded-3xl p-5 sm:p-8 shadow-2xl mb-10 relative overflow-hidden text-left max-w-lg mx-auto">
+      <div class="absolute -top-16 -right-16 w-40 h-40 bg-amber-400/10 rounded-full blur-3xl pointer-events-none"></div>
+
+      <div class="flex items-baseline justify-center gap-3 mb-6 pb-4 border-b border-slate-800">
+        <span class="text-4xl sm:text-5xl font-black text-emerald-400 font-display">₹100</span>
+        <span class="text-xl text-slate-500 line-through">₹699</span>
+        <span class="px-2.5 py-0.5 text-xs font-black bg-amber-400/20 text-amber-400 rounded-full border border-amber-400/30">85% OFF</span>
+      </div>
+
+      <div class="space-y-3 mb-6 text-xs sm:text-sm text-slate-200">
+        <div class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-900/80 border border-slate-800">
+          <span class="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs shrink-0">✓</span>
+          <span><strong>5000+ Ultra HD (1080p)</strong> Entertainment & Comedy Videos</span>
+        </div>
+        <div class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-900/80 border border-slate-800">
+          <span class="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs shrink-0">✓</span>
+          <span><strong>Direct Google Drive Stream & Download</strong> (Offline Bhi Dekhein)</span>
+        </div>
+        <div class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-900/80 border border-slate-800">
+          <span class="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs shrink-0">✓</span>
+          <span><strong>Lifetime Google Drive Access Link</strong> (Kabhi Expire Nahi Hoga)</span>
+        </div>
+        <div class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-900/80 border border-slate-800">
+          <span class="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs shrink-0">✓</span>
+          <span><strong>Direct UPI Payment</strong> (PhonePe / GPay / Paytm / QR)</span>
+        </div>
+        <div class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-900/80 border border-slate-800">
+          <span class="w-5 h-5 rounded-full bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-bold text-xs shrink-0">✓</span>
+          <span><strong>Instant WhatsApp Verification</strong> & Drive Link Delivery</span>
+        </div>
+      </div>
+
+      <button onclick="openCheckout()" class="w-full py-4 rounded-2xl bg-gradient-to-r from-amber-400 via-yellow-400 to-amber-500 hover:from-amber-300 hover:to-yellow-300 text-slate-950 font-black text-base sm:text-lg shadow-xl shadow-amber-500/25 active:scale-95 transition cursor-pointer pulse-btn flex items-center justify-center gap-2">
+        Pay ₹100 & Get Full Access →
+      </button>
+
+      <div class="mt-4 flex items-center justify-center gap-4 text-xs text-slate-400">
+        <span>🔒 100% Safe UPI</span>
+        <span>⚡ Instant Delivery</span>
+        <span>⭐ 4.9/5 Rating</span>
+      </div>
+    </div>
+
+    <!-- Quick Metrics Strip -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl mx-auto text-left mb-12">
+      <div class="p-3 bg-slate-900/70 rounded-xl border border-slate-800">
+        <span class="text-xl sm:text-2xl font-black text-amber-400 block font-display">5,000+</span>
+        <span class="text-[11px] text-slate-400">Entertainment Videos</span>
+      </div>
+      <div class="p-3 bg-slate-900/70 rounded-xl border border-slate-800">
+        <span class="text-xl sm:text-2xl font-black text-emerald-400 block font-display">10,000+</span>
+        <span class="text-[11px] text-slate-400">Happy Viewers</span>
+      </div>
+      <div class="p-3 bg-slate-900/70 rounded-xl border border-slate-800">
+        <span class="text-xl sm:text-2xl font-black text-sky-400 block font-display">1080p</span>
+        <span class="text-[11px] text-slate-400">Full HD Clarity</span>
+      </div>
+      <div class="p-3 bg-slate-900/70 rounded-xl border border-slate-800">
+        <span class="text-xl sm:text-2xl font-black text-purple-400 block font-display">Lifetime</span>
+        <span class="text-[11px] text-slate-400">Unlimited Watch</span>
+      </div>
+    </div>
+
+    <!-- 5000+ Videos Breakdown Grid -->
+    <section id="breakdown" class="py-10 border-t border-slate-800/80 text-left">
+      <div class="text-center mb-6">
+        <div class="text-xs font-bold text-amber-400 uppercase tracking-wider mb-1">
+          Folder-by-Folder Overview
+        </div>
+        <h2 class="text-2xl sm:text-3xl font-black font-display text-white">
+          📁 5000+ Videos Ka Complete Entertainment Breakdown
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-xs">
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">1,200+ Videos</span>
+          <span class="text-white font-semibold text-sm">Desi Comedy & Funny Vines</span>
+          <p class="text-slate-400 mt-1">Pet dard hone wali hasi, relatable family jokes aur daily funny moments.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">1,050+ Videos</span>
+          <span class="text-white font-semibold text-sm">Crazy Pranks & Epic Fails</span>
+          <p class="text-slate-400 mt-1">Public pranks, unexpected funny twists aur dosto ke funny thahake.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">850+ Videos</span>
+          <span class="text-white font-semibold text-sm">Bollywood Comedy Scenes</span>
+          <p class="text-slate-400 mt-1">Babu Rao, Paresh Rawal, Rajpal Yadav aur iconic Hindi movie scenes.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">750+ Videos</span>
+          <span class="text-white font-semibold text-sm">Mind-Blowing Desi Jugaad</span>
+          <p class="text-slate-400 mt-1">Crazy Indian talent aur deshi jugaad jinhe dekh kar hasi nahi rukegi.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">650+ Videos</span>
+          <span class="text-white font-semibold text-sm">Hilarious Meme Moments</span>
+          <p class="text-slate-400 mt-1">Trending desi meme clips, funny sound clashes aur internet jokes.</p>
+        </div>
+        <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+          <span class="text-amber-400 font-bold block text-sm">500+ Videos</span>
+          <span class="text-white font-semibold text-sm">Cute Pets & Kids Funny Acts</span>
+          <p class="text-slate-400 mt-1">Bacchon aur janwaron ki shararate jo mood turant fresh kar dein.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Free Bonuses -->
+    <section id="bonuses" class="py-10 border-t border-slate-800/80 text-left">
+      <div class="p-6 rounded-3xl bg-gradient-to-br from-amber-500/15 via-slate-900 to-slate-900 border border-amber-500/35 space-y-3">
+        <div class="flex items-center gap-2">
+          <span class="text-2xl">🎁</span>
+          <div>
+            <h3 class="text-base font-black text-amber-300 uppercase tracking-wide">
+              FREE ENTERTAINMENT BONUSES (WORTH ₹1,999)
+            </h3>
+            <span class="text-xs text-slate-400">Aaj ₹100 bundle ke sath sabhi bonuses bilkul FREE</span>
+          </div>
+        </div>
+
+        <ul class="text-xs text-slate-300 space-y-2 pt-2">
+          <li class="flex items-center gap-2"><span class="text-emerald-400 font-bold">✓</span> <strong>Bonus 1:</strong> 50+ Top Desi Standup Comedy Audio Clips</li>
+          <li class="flex items-center gap-2"><span class="text-emerald-400 font-bold">✓</span> <strong>Bonus 2:</strong> 100+ Best Bollywood Cult Comedy Dialogue Tracks</li>
+          <li class="flex items-center gap-2"><span class="text-emerald-400 font-bold">✓</span> <strong>Bonus 3:</strong> Free Future Updates & New Video Additions</li>
+          <li class="flex items-center gap-2"><span class="text-emerald-400 font-bold">✓</span> <strong>Bonus 4:</strong> 1-Click High Speed Offline Download Guide</li>
+        </ul>
+
+        <div class="pt-3">
+          <button onclick="openCheckout()" class="w-full sm:w-auto px-6 py-3 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-xs cursor-pointer transition">
+            Claim Bundle + 4 Bonuses @ ₹100 →
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Customer Reviews -->
+    <section id="reviews" class="py-10 border-t border-slate-800/80 text-left space-y-3">
+      <h2 class="text-xl font-bold font-display text-white text-center mb-4">💬 Verified Viewers Reviews</h2>
+      
+      <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+        <div class="flex items-center justify-between mb-1">
+          <span class="font-bold text-white text-xs">Amit Rawat (Dehradun)</span>
+          <span class="text-amber-400 text-xs">★★★★★</span>
+        </div>
+        <p class="text-xs text-slate-300 italic">"Bhai itni funny aur mazedaar videos hain ki dosto ke saath baithkar pure maze aa gaye! ₹100 me full timepass."</p>
+      </div>
+
+      <div class="p-4 rounded-xl bg-[#111827] border border-slate-800">
+        <div class="flex items-center justify-between mb-1">
+          <span class="font-bold text-white text-xs">Suresh Sharma (Jaipur)</span>
+          <span class="text-amber-400 text-xs">★★★★★</span>
+        </div>
+        <p class="text-xs text-slate-300 italic">"Drive link turant mil gaya. Train me travel karte time offline download karke saari videos dekhi, zabardast collection hai."</p>
+      </div>
+
+      <!-- Direct WhatsApp Support -->
+      <div class="p-4 rounded-xl bg-slate-900 border border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left mt-4">
+        <div>
+          <span class="text-xs font-bold text-white block">Koi bhi sawal ya help chahiye?</span>
+          <span class="text-[11px] text-slate-400">Direct WhatsApp par message karein</span>
+        </div>
+        <button onclick="openSupportWhatsApp()" class="px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs rounded-xl flex items-center gap-1.5 cursor-pointer shrink-0 transition">
+          <span>Chat on WhatsApp</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- FAQs -->
+    <section id="faqs" class="py-10 border-t border-slate-800/80 text-left space-y-3">
+      <h2 class="text-xl font-bold font-display text-white text-center mb-4">❓ Frequently Asked Questions</h2>
+      
+      <div class="p-3.5 rounded-xl bg-[#111827] border border-slate-800">
+        <h4 class="text-xs font-bold text-white">Payment ke baad Google Drive link kaise milega?</h4>
+        <p class="text-xs text-slate-400 mt-1">Payment successful hone ke baad jaise hi aap WhatsApp par screenshot send karenge, 2 se 5 minute ke andar aapko lifetime Google Drive access link mil jayega.</p>
+      </div>
+
+      <div class="p-3.5 rounded-xl bg-[#111827] border border-slate-800">
+        <h4 class="text-xs font-bold text-white">Kya phone me download karke offline dekh sakte hain?</h4>
+        <p class="text-xs text-slate-400 mt-1">Haan, bilkul! Google Drive se aap direct stream kar sakte hain ya fir phone me download karke bina internet ke dekh sakte hain.</p>
+      </div>
+
+      <div class="p-3.5 rounded-xl bg-[#111827] border border-slate-800">
+        <h4 class="text-xs font-bold text-white">Drive link ki validity kitni hai?</h4>
+        <p class="text-xs text-slate-400 mt-1">Google Drive link ka access Lifetime valid hai. Link kabhi expire nahi hoga.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Sticky Bottom Bar on Mobile -->
+  <div class="fixed bottom-0 inset-x-0 z-40 bg-[#111827]/95 backdrop-blur-md border-t border-slate-800 p-2.5 flex items-center justify-between sm:hidden shadow-2xl">
+    <div>
+      <span class="text-[10px] text-slate-400 line-through">₹699</span>
+      <div class="text-lg font-black text-emerald-400 font-display">₹100</div>
+    </div>
+    <button onclick="openCheckout()" class="px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-400 to-yellow-400 text-slate-950 font-black text-xs shadow-md active:scale-95 cursor-pointer">
+      Pay ₹100 & Get Access →
+    </button>
+  </div>
+
+  <!-- CHECKOUT MODAL (NO UPI NUMBER) -->
+  <div id="checkoutModal" class="hidden fixed inset-0 z-50 bg-black/85 backdrop-blur-sm flex items-center justify-center p-3 sm:p-4 overflow-y-auto">
+    <div class="bg-[#111827] border border-slate-700 w-full max-w-md rounded-2xl shadow-2xl overflow-hidden my-auto relative text-left">
+      
+      <!-- Modal Header -->
+      <div class="p-4 border-b border-slate-800 flex items-center justify-between bg-slate-900/90">
+        <div class="flex items-center gap-2.5">
+          <div class="w-8 h-8 rounded-lg bg-amber-400 text-slate-950 font-black flex items-center justify-center text-sm shadow">⚡</div>
+          <div>
+            <h3 class="text-sm sm:text-base font-bold text-white">Direct UPI Payment</h3>
+            <span class="text-[11px] text-emerald-400 font-medium">Pay ₹100 & Instant WhatsApp Delivery</span>
+          </div>
+        </div>
+        <button onclick="closeCheckout()" class="w-8 h-8 rounded-lg bg-slate-800 text-slate-400 hover:text-white flex items-center justify-center cursor-pointer">✕</button>
+      </div>
+
+      <div class="p-4 sm:p-5 space-y-4 max-h-[82vh] overflow-y-auto">
+        
+        <!-- Total to Pay -->
+        <div class="bg-slate-900 p-3 rounded-xl border border-slate-800 flex items-center justify-between">
+          <div>
+            <span class="text-[11px] text-slate-400 block">Total Amount to Pay:</span>
+            <span class="text-xs font-bold text-white">5000+ Biggest Viral Desi Video Bundle</span>
+          </div>
+          <div class="text-right">
+            <span class="text-xs text-slate-500 line-through mr-1">₹699</span>
+            <span class="text-2xl font-black text-emerald-400 font-display">₹100</span>
+          </div>
+        </div>
+
+        <!-- 1-Click UPI Apps -->
+        <div class="space-y-2">
+          <label class="text-xs font-bold text-amber-300 block">
+            1. Direct App Se Pay Karein (Tap to Open):
+          </label>
+          <div class="grid grid-cols-2 gap-2">
+            <button type="button" onclick="openUpiApp('phonepe')" class="p-2.5 rounded-xl bg-[#5f259f]/30 hover:bg-[#5f259f]/50 border-2 border-[#5f259f] text-left flex items-center gap-2 cursor-pointer active:scale-95 transition">
+              <div class="w-7 h-7 rounded-full bg-[#5f259f] text-white flex items-center justify-center font-black text-xs shrink-0">P</div>
+              <div>
+                <div class="text-xs font-bold text-white">PhonePe</div>
+                <div class="text-[10px] text-purple-200">Pay ₹100</div>
+              </div>
+            </button>
+
+            <button type="button" onclick="openUpiApp('gpay')" class="p-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 border-2 border-emerald-500/70 text-left flex items-center gap-2 cursor-pointer active:scale-95 transition">
+              <div class="w-7 h-7 rounded-full bg-emerald-500 text-slate-950 flex items-center justify-center font-black text-xs shrink-0">G</div>
+              <div>
+                <div class="text-xs font-bold text-white">Google Pay</div>
+                <div class="text-[10px] text-emerald-300">Pay ₹100</div>
+              </div>
+            </button>
+
+            <button type="button" onclick="openUpiApp('paytm')" class="p-2.5 rounded-xl bg-[#002e6e]/40 hover:bg-[#002e6e]/60 border-2 border-[#00b9f5]/70 text-left flex items-center gap-2 cursor-pointer active:scale-95 transition">
+              <div class="w-7 h-7 rounded-full bg-[#00b9f5] text-slate-950 flex items-center justify-center font-black text-xs shrink-0">Pay</div>
+              <div>
+                <div class="text-xs font-bold text-white">Paytm UPI</div>
+                <div class="text-[10px] text-cyan-200">Pay ₹100</div>
+              </div>
+            </button>
+
+            <button type="button" onclick="openUpiApp('generic')" class="p-2.5 rounded-xl bg-slate-900 hover:bg-slate-800 border-2 border-amber-500/60 text-left flex items-center gap-2 cursor-pointer active:scale-95 transition">
+              <div class="w-7 h-7 rounded-full bg-amber-400 text-slate-950 flex items-center justify-center font-black text-xs shrink-0">UPI</div>
+              <div>
+                <div class="text-xs font-bold text-white">Other UPI</div>
+                <div class="text-[10px] text-amber-200">CRED / BHIM</div>
+              </div>
+            </button>
+          </div>
+          <div id="appNotice" class="hidden p-2 rounded-lg bg-amber-500/15 border border-amber-500/30 text-amber-300 text-xs text-center font-semibold"></div>
+        </div>
+
+        <!-- Official Scanner Box (Only Official UPI ID, NO PHONE NUMBER) -->
+        <div class="p-3.5 bg-slate-900 rounded-2xl border border-slate-800 text-center space-y-2.5">
+          <span class="text-xs text-slate-400 block">Ya Paytm / PhonePe se Scanner scan karein:</span>
+          
+          <div class="w-48 h-56 mx-auto p-2 bg-white rounded-xl shadow-lg flex items-center justify-center overflow-hidden">
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=upi%3A%2F%2Fpay%3Fpa%3Dpaytmqr2810050501011dateishbh6t%40paytm%26pn%3D5000%2BBundle%26am%3D100%26cu%3DINR" alt="Paytm ₹100 QR Scanner" class="w-full h-full object-contain" />
+          </div>
+
+          <!-- Quick Copy: ONLY UPI ID -->
+          <div class="bg-slate-950 p-2.5 rounded-xl border border-slate-800 flex items-center justify-between text-xs">
+            <div class="text-left truncate pr-2">
+              <span class="text-[10px] text-slate-400 block font-medium">Official UPI ID:</span>
+              <span class="font-mono text-xs text-amber-300 font-bold truncate block" title="paytmqr2810050501011dateishbh6t@paytm">
+                paytmqr2810050501011dateishbh6t@paytm
+              </span>
+            </div>
+            <button type="button" onclick="copyUpiId()" id="copyUpiBtn" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-amber-400 font-bold rounded-lg text-xs cursor-pointer flex items-center gap-1 shrink-0 transition active:scale-95">
+              Copy UPI ID
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 2: Screenshot Upload -->
+        <div class="p-4 bg-[#141b29] rounded-2xl border border-amber-500/30 space-y-2.5">
+          <div class="flex items-center justify-between">
+            <label class="text-xs font-bold text-amber-300">
+              📸 2. Payment Screenshot Upload Karein *
+            </label>
+            <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-amber-400/20 text-amber-300">ZAROORI</span>
+          </div>
+
+          <p class="text-[11px] text-slate-400">
+            Payment success hone par screenshot lein aur yahan select karein:
+          </p>
+
+          <input type="file" id="screenshotFileInput" accept="image/*" onchange="handleScreenshotSelected(event)" class="hidden" />
+
+          <div id="uploadPlaceholder" onclick="document.getElementById('screenshotFileInput').click()" class="border-2 border-dashed border-slate-700 hover:border-amber-400 rounded-xl p-4 flex flex-col items-center justify-center gap-1 cursor-pointer bg-slate-900/60 hover:bg-slate-900 transition">
+            <span class="text-xl">📁</span>
+            <span class="text-xs font-bold text-slate-200">Tap to Choose Screenshot</span>
+            <span class="text-[10px] text-slate-500">JPG, PNG ya Gallery Screenshot</span>
+          </div>
+
+          <div id="previewBox" class="hidden bg-slate-900 p-2.5 rounded-xl border border-emerald-500/40 flex items-center justify-between">
+            <div class="flex items-center gap-2.5 min-w-0">
+              <img id="previewImageTag" src="" alt="Screenshot" class="w-10 h-12 object-cover rounded border border-slate-700 shrink-0" />
+              <div class="min-w-0">
+                <span class="text-xs font-bold text-emerald-400 block">✓ Screenshot Attached!</span>
+                <span id="previewFileName" class="text-[10px] text-slate-400 truncate block">payment_proof.jpg</span>
+              </div>
+            </div>
+            <button type="button" onclick="document.getElementById('screenshotFileInput').click()" class="text-xs text-amber-400 font-bold px-2 py-1 rounded bg-amber-400/10 cursor-pointer">
+              Change
+            </button>
+          </div>
+
+          <input type="text" id="utrInput" placeholder="UPI Ref / UTR No. (Optional)" class="w-full px-3 py-2 bg-slate-900 border border-slate-700 rounded-xl text-xs text-white placeholder-slate-500 font-mono focus:outline-none focus:border-amber-400" />
+        </div>
+
+        <!-- Step 3: Submit & WhatsApp Button -->
+        <div class="space-y-2 pt-1">
+          <button type="button" id="submitProofBtn" onclick="submitScreenshotAndOpenWhatsApp()" class="w-full py-4 rounded-xl bg-amber-400 hover:bg-amber-300 text-slate-950 font-black text-sm sm:text-base shadow-xl active:scale-95 transition cursor-pointer flex items-center justify-center gap-2">
+            <span>Pehle Payment Screenshot Select Karein</span>
+          </button>
+
+          <div id="successNotice" class="hidden p-3 bg-emerald-500/15 border border-emerald-500/40 rounded-xl text-center space-y-1">
+            <span class="text-xs font-bold text-emerald-400 block">✓ WhatsApp Open Ho Raha Hai!</span>
+            <p class="text-[11px] text-slate-300">WhatsApp par screenshot send kar dijiye. Turant Drive link bhejenge.</p>
+            <a id="manualWaLink" href="#" target="_blank" class="inline-block text-xs text-emerald-300 font-bold underline mt-1">
+              WhatsApp open nahi hua toh yahan click karein
+            </a>
+          </div>
+        </div>
+
+        <div class="p-2.5 bg-slate-900/60 rounded-xl border border-slate-800 text-[11px] text-slate-400 flex items-center gap-2">
+          <span class="text-emerald-400 font-bold">🔒</span>
+          <span>Payment verify hote hi aapko WhatsApp par instant Google Drive link mil jayega.</span>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="py-8 text-center text-xs text-slate-500 border-t border-slate-800 mt-12 bg-[#090d14]">
+    © 2026 5000+ Biggest Viral Desi Video Bundle. All rights reserved.
+  </footer>
+
+  <!-- Scripts -->
+  <script>
+    let hasScreenshot = false;
+
+    // Countdown Timer logic
+    let totalSecs = 2 * 3600 + 44 * 60 + 18;
+    setInterval(() => {
+      if (totalSecs > 0) totalSecs--;
+      const h = String(Math.floor(totalSecs / 3600)).padStart(2, '0');
+      const m = String(Math.floor((totalSecs % 3600) / 60)).padStart(2, '0');
+      const s = String(totalSecs % 60).padStart(2, '0');
+      const el = document.getElementById('countdownTimer');
+      if (el) el.innerText = `${h}:${m}:${s}`;
+    }, 1000);
+
+    function openCheckout() {
+      document.getElementById('checkoutModal').classList.remove('hidden');
+    }
+
+    function closeCheckout() {
+      document.getElementById('checkoutModal').classList.add('hidden');
+    }
+
+    function openSupportWhatsApp() {
+      const text = encodeURIComponent('Hello! Mujhe 5000+ Biggest Viral Desi Video Bundle ke baare me jankari chahiye.');
+      window.open('https://wa.me/' + MY_WHATSAPP + '?text=' + text, '_blank');
+    }
+
+    function openUpiApp(app) {
+      const notice = document.getElementById('appNotice');
+      notice.classList.remove('hidden');
+      notice.innerText = 'Opening ' + app.toUpperCase() + '... Pay ₹' + MY_PRICE;
+
+      const upiUrl = 'upi://pay?pa=' + encodeURIComponent(MY_UPI_ID) + '&pn=' + encodeURIComponent('5000 Viral Video Bundle') + '&am=' + MY_PRICE + '&cu=INR&tn=5000+Viral+Bundle';
+      let targetUrl = upiUrl;
+
+      if (app === 'phonepe') targetUrl = 'phonepe://pay?pa=' + encodeURIComponent(MY_UPI_ID) + '&pn=' + encodeURIComponent('5000 Viral Video Bundle') + '&am=' + MY_PRICE + '&cu=INR&tn=5000+Viral+Bundle';
+      if (app === 'gpay') targetUrl = 'tez://upi/pay?pa=' + encodeURIComponent(MY_UPI_ID) + '&pn=' + encodeURIComponent('5000 Viral Video Bundle') + '&am=' + MY_PRICE + '&cu=INR&tn=5000+Viral+Bundle';
+      if (app === 'paytm') targetUrl = 'paytmmp://pay?pa=' + encodeURIComponent(MY_UPI_ID) + '&pn=' + encodeURIComponent('5000 Viral Video Bundle') + '&am=' + MY_PRICE + '&cu=INR&tn=5000+Viral+Bundle';
+
+      window.location.href = targetUrl;
+      setTimeout(() => { window.location.href = upiUrl; }, 1200);
+      setTimeout(() => {
+        notice.innerText = 'Payment hone ke baad niche screenshot attach karein!';
+      }, 2500);
+    }
+
+    function copyUpiId() {
+      navigator.clipboard.writeText(MY_UPI_ID);
+      const btn = document.getElementById('copyUpiBtn');
+      btn.innerText = 'Copied!';
+      setTimeout(() => { btn.innerText = 'Copy UPI ID'; }, 2000);
+    }
+
+    function handleScreenshotSelected(e) {
+      const file = e.target.files && e.target.files[0];
+      if (file) {
+        hasScreenshot = true;
+        const previewTag = document.getElementById('previewImageTag');
+        previewTag.src = URL.createObjectURL(file);
+        document.getElementById('previewFileName').innerText = file.name;
+        document.getElementById('uploadPlaceholder').classList.add('hidden');
+        document.getElementById('previewBox').classList.remove('hidden');
+
+        const btn = document.getElementById('submitProofBtn');
+        btn.classList.remove('bg-amber-400', 'hover:bg-amber-300');
+        btn.classList.add('bg-gradient-to-r', 'from-emerald-500', 'to-green-400', 'text-slate-950');
+        btn.innerHTML = '<span>Submit Screenshot & Open WhatsApp →</span>';
+      }
+    }
+
+    function submitScreenshotAndOpenWhatsApp() {
+      if (!hasScreenshot) {
+        document.getElementById('screenshotFileInput').click();
+        return;
+      }
+
+      const utr = document.getElementById('utrInput').value.trim();
+      let text = 'Hello! Maine "' + PRODUCT_NAME + '" ke liye ₹' + MY_PRICE + ' pay kar diye hain.';
+      if (utr) text += '\nUTR / Ref No: ' + utr;
+      text += '\nMaine payment ka screenshot yahan attach kar diya hai. Kripya check karke mujhe Google Drive link send kar dijiye.';
+
+      const waUrl = 'https://wa.me/' + MY_WHATSAPP + '?text=' + encodeURIComponent(text);
+
+      document.getElementById('manualWaLink').href = waUrl;
+      document.getElementById('successNotice').classList.remove('hidden');
+
+      window.open(waUrl, '_blank');
+    }
+  </script>
+</body>
+</html>
